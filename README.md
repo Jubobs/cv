@@ -89,6 +89,7 @@
 * **Operating systems**: macOS/FreeBSD, Linux
 * **Version control**: Git, GitHub
 * **CI/CD**: Gitlab, Docker, Kubernetes
+* **Monitoring & alerting**: Prometheus, Zipkin
 * **Databases**: Apache Cassandra
 * **Cloud**: Google Cloud Platform
 * **Integration**: REST/HTTP, Kafka
