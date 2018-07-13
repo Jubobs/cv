@@ -154,7 +154,7 @@
 
 * **Competitive programming**
     * [IEEExtreme 2015][ieeextreme] ([1st team in Ireland][ieeextreme-country], [111th worldwide][ieeextreme-worldwide])
-    * Helped organise [IrlCPC][irlcpc] 2017 & 2018
+    * Contributed programming problems to [IrlCPC][irlcpc] 2017 & 2018
 * **Sports**: running, swimming
 * **Other**: reading, cooking, playing board games
 
