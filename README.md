@@ -2,29 +2,29 @@
 
 ## Table of Contents
 
-* [**Professional experience**](https://github.com/Jubobs/cv#professional-experience)
-    * ["Funemployed" (2018 - now)](https://github.com/Jubobs/cv#funemployed-republic-of-work-cork-may-2018---now)
-    * [Poppulo (2016 - 2018)](https://github.com/Jubobs/cv#poppulo-cork-feb-2016---mar-2018)
-    * [Google Summer of Code (2015)](https://github.com/Jubobs/cv#google-summer-of-code-remote-may---aug-2015)
-    * [Hydraulics & Maritime Research Centre (2007 - 2008)](https://github.com/Jubobs/cv#hydraulics--maritime-research-centre-university-college-cork-sep-2007---dec-2008)
+* [**Professional experience**](https://github.com/jubobs/cv#professional-experience)
+    * ["Funemployed" (2018 - now)](https://github.com/jubobs/cv#funemployed-republic-of-work-cork-may-2018---now)
+    * [Poppulo (2016 - 2018)](https://github.com/jubobs/cv#poppulo-cork-feb-2016---mar-2018)
+    * [Google Summer of Code (2015)](https://github.com/jubobs/cv#google-summer-of-code-remote-may---aug-2015)
+    * [Hydraulics & Maritime Research Centre (2007 - 2008)](https://github.com/jubobs/cv#hydraulics--maritime-research-centre-university-college-cork-sep-2007---dec-2008)
 
-* [**Education**](https://github.com/Jubobs/cv#education)
-    * [Extracurricular Computer-Science education (2014 - 2015)](https://github.com/Jubobs/cv#extracurricular-computer-science-education-university-college-cork-sep-2014---mar-2015)
-    * [Ph.D. (2009 - 2014)](https://github.com/Jubobs/cv#phd-civil--environmental-engineering-university-college-cork-jan-2009---dec-2014)
-    * [Diplôme d'ingénieur (2004 - 2007)](https://github.com/Jubobs/cv#dipl%C3%B4me-ding%C3%A9nieur-ecole-centrale-marseille-sep-2004---mar-2007)
-    * [Classes Préparatoires (2001 - 2004)](https://github.com/Jubobs/cv#classes-pr%C3%A9paratoires-lyc%C3%A9e-saints-louis-paris-sep-2001---may-2004)
+* [**Education**](https://github.com/jubobs/cv#education)
+    * [Extracurricular Computer-Science education (2014 - 2015)](https://github.com/jubobs/cv#extracurricular-computer-science-education-university-college-cork-sep-2014---mar-2015)
+    * [Ph.D. (2009 - 2014)](https://github.com/jubobs/cv#phd-civil--environmental-engineering-university-college-cork-jan-2009---dec-2014)
+    * [Diplôme d'ingénieur (2004 - 2007)](https://github.com/jubobs/cv#dipl%C3%B4me-ding%C3%A9nieur-ecole-centrale-marseille-sep-2004---mar-2007)
+    * [Classes Préparatoires (2001 - 2004)](https://github.com/jubobs/cv#classes-pr%C3%A9paratoires-lyc%C3%A9e-saints-louis-paris-sep-2001---may-2004)
 
-* [**Tools & methodologies**](https://github.com/Jubobs/cv#tools--methodologies)
+* [**Tools & methodologies**](https://github.com/jubobs/cv#tools--methodologies)
 
-* [**Natural languages**](https://github.com/Jubobs/cv#natural-languages)
+* [**Natural languages**](https://github.com/jubobs/cv#natural-languages)
 
-* [**Online presence**](https://github.com/Jubobs/cv#online-presence)
+* [**Online presence**](https://github.com/jubobs/cv#online-presence)
 
-* [**Other contributions**](https://github.com/Jubobs/cv#other-contributions)
-    * [Public speaking](https://github.com/Jubobs/cv#public-speaking)
-    * [Selected open-source work](https://github.com/Jubobs/cv#selected-open-source-work)
+* [**Other contributions**](https://github.com/jubobs/cv#other-contributions)
+    * [Public speaking](https://github.com/jubobs/cv#public-speaking)
+    * [Selected open-source work](https://github.com/jubobs/cv#selected-open-source-work)
 
-* [**Hobbies**](https://github.com/Jubobs/cv#hobbies)
+* [**Hobbies**](https://github.com/jubobs/cv#hobbies)
 
 ---
 
@@ -108,11 +108,11 @@
 
 * **Blog**: [www.jubobs.com](https://www.jubobs.com)
     * (see also [this post][poppulo-blogpost] from Poppulo's tech blog)
-* **GitHub**: [Jubobs](https://github.com/Jubobs)
+* **GitHub**: [jubobs](https://github.com/jubobs)
 * **Google Scholar**: [Julien Cretel][google-scholar]
 * **LinkedIn**: N/A
-* **Speaker Deck**: [Jubobs](https://speakerdeck.com/jubobs)
-* **Stack Overflow**: [Jubobs][stackoverflow]
+* **Speaker Deck**: [jubobs](https://speakerdeck.com/jubobs)
+* **Stack Overflow**: [jubobs][stackoverflow]
 * **Twitter**: [@\_jubobs\_](https://twitter.com/_jubobs_)
 
 
@@ -179,7 +179,7 @@
 [gareth]: http://publish.ucc.ie/researchprofiles/D019/gthomas
 
 [git-demystified-meetup]: https://www.meetup.com/corkdev-io/events/225761607/
-[git-demystified-slides]: https://github.com/Jubobs/talks/blob/master/corkdev-oct2015/slides.md
+[git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
 [git-demystified-video]: https://www.youtube.com/watch?v=nvUbAkncoso
 
 [google-scholar]: https://scholar.google.com/citations?user=SLDeQ5wAAAAJ
@@ -203,11 +203,11 @@
 [mmeyer]: http://blog.mired.org
 
 [pbt-corkdev-meetup]: https://www.meetup.com/corkdev-io/events/237848006/
-[pbt-corkdev-code]: https://github.com/Jubobs/corkdev-feb-2017
+[pbt-corkdev-code]: https://github.com/jubobs/corkdev-feb-2017
 [pbt-corkdev-slides]: https://speakerdeck.com/jubobs/property-based-testing-for-the-masses
 [pbt-corkdev-video]: https://www.youtube.com/watch?v=h96c-coQWkE
 
-[pbt-crafters-code]: https://github.com/Jubobs/Cork-Software-Craftsmanship-workshop-on-property-based-testing
+[pbt-crafters-code]: https://github.com/jubobs/Cork-Software-Craftsmanship-workshop-on-property-based-testing
 [pbt-crafters-meetup]: https://www.meetup.com/Cork-Software-Craftsmanship-Meetup/events/239666281/
 
 [pbt-ministry-slides]: https://speakerdeck.com/jubobs/property-based-testing-in-a-nutshell
