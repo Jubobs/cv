@@ -1,5 +1,7 @@
 # Julien Cretel
 
+> I solve problems by writing as little code as required.
+
 ## Table of Contents
 
 * [**Professional experience**](https://github.com/jubobs/cv#professional-experience)
