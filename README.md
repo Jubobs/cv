@@ -69,6 +69,7 @@
 ### Ph.D., Civil & Environmental Engineering, University College Cork (Jan. 2009 - Dec. 2014)
 * Supervisors: [Dr Gordon Lightbody][gordon], [Dr Gareth Thomas][gareth], [Prof. Tony Lewis][tony]
 * Topic: control strategies for wave-energy devices
+* Funding: [Marie Skłodowska-Curie Actions][msca]
 * (all but dissertation)
 * Teaching:
     * [AM2032: Numerical Methods & Programming][am2032] (tutor, then lecturer)
@@ -192,6 +193,8 @@
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
 
 [hmrc]: http://www.marei.ie/
+
+[msca]: http://ec.europa.eu/research/mariecurieactions/
 
 [ieeextreme]: http://ieeextreme.org/
 [ieeextreme-country]: http://sites.ieee.org/xtreme/files/2017/05/Xtreme-9.0-Final-Standings-by-Overall-Rank.pdf
