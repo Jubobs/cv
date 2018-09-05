@@ -35,6 +35,14 @@
 
 ### "Funemployed", [Republic of Work][row], Cork (May 2018 - now)
 
+* Upskilling in areas of interest (Go, Google Cloud, etc.)
+* Working on personal projects including
+    * [`usrname`][usrname]: a Go library for checking the validity and
+      availability of a prospective username across a multitude of social-media
+      sites
+    * a (yet unnamed) personal-productivity Web app
+* Blogging (mostly about Go, so far)
+
 ### [Poppulo](https://www.poppulo.com/), Cork (Feb. 2016 - Mar. 2018)
 
 * Software Engineer
@@ -229,3 +237,5 @@
 [stackoverflow]: https://stackoverflow.com/users/2541573/jubobs?tab=profile
 
 [tony]: http://research.ucc.ie/profiles/D012/tlewis
+
+[usrname]: https://github.com/jubobs/usrname
