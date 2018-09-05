@@ -131,6 +131,9 @@
 
 ### Public speaking
 
+* _Intro to Google Cloud Functions_
+  Serverless Cork, Sep. 2018 (TBA)
+
 * [_Property-based testing in a nutshell_][pbt-ministry-meetup]
   Ministry of Testing, Cork, Jul. 2017
   ([slides][pbt-ministry-slides])
