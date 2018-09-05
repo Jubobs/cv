@@ -131,10 +131,10 @@
 
 ### Public speaking
 
-* _Intro to Google Cloud Functions_
+* _Intro to Google Cloud Functions_,
   Serverless Cork, Sep. 2018 (TBA)
 
-* [_Property-based testing in a nutshell_][pbt-ministry-meetup]
+* [_Property-based testing in a nutshell_][pbt-ministry-meetup],
   Ministry of Testing, Cork, Jul. 2017
   ([slides][pbt-ministry-slides])
 
@@ -146,7 +146,7 @@
   Software Craftmanship meetup, Cork, Jun. 2017
   ([code][pbt-crafters-code])
 
-* [_Property-based testing for the masses_][pbt-corkdev-meetup]
+* [_Property-based testing for the masses_][pbt-corkdev-meetup],
   corkdev.io meetup, Cork, Feb. 2017
   ([code][pbt-corkdev-code], [slides][pbt-corkdev-slides], [video][pbt-corkdev-video])
 
