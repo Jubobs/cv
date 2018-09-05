@@ -1,6 +1,6 @@
 # Julien Cretel
 
-> I solve problems by writing as little code as required.
+> I'm Winston Wolfe; I solve problems.
 
 ## Table of Contents
 
