@@ -117,11 +117,12 @@
 
 ## Online presence
 
-* **Blog**: [www.jubobs.com](https://www.jubobs.com)
+* **Blog**: [jubobs.com](https://jubobs.com)
     * (see also [this post][poppulo-blogpost] from Poppulo's tech blog)
 * **GitHub**: [jubobs](https://github.com/jubobs)
 * **Google Scholar**: [Julien Cretel][google-scholar]
 * **LinkedIn**: N/A
+* **Medium**: [@jubobs](https://medium.com/@jubobs)
 * **Speaker Deck**: [jubobs](https://speakerdeck.com/jubobs)
 * **Stack Overflow**: [jubobs][stackoverflow]
 * **Twitter**: [@\_jubobs\_](https://twitter.com/_jubobs_)
