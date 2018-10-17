@@ -165,9 +165,6 @@
 * Apache-Cassandra's Java Driver
     * [JAVA-1532: Codec support for Java 8's LocalDateTime and ZoneId][java1532]
     * (merged)
-* `rakyll/hey` (HTTP load generator, ApacheBench replacement, written in Go)
-    * [Use nearest-rank method for percentiles][hey120]
-    * (not yet merged)
 
 ## Hobbies
 
@@ -207,8 +204,6 @@
 
 [gsoc]: https://summerofcode.withgoogle.com/
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
-
-[hey120]: https://github.com/rakyll/hey/pull/120
 
 [hmrc]: http://www.marei.ie/
 
