@@ -1,178 +1,146 @@
 # Julien Cretel
 
-> I'm Winston Wolfe; I solve problems.
+(Ce CV est en ligne : https://github.com/jubobs/cv/tree/french)
 
-## Table of Contents
+## Expérience professionnelle
 
-* [**Professional experience**](https://github.com/jubobs/cv#professional-experience)
-    * ["Funemployed" (2018 - now)](https://github.com/jubobs/cv#funemployed-republic-of-work-cork-may-2018---now)
-    * [Poppulo (2016 - 2018)](https://github.com/jubobs/cv#poppulo-cork-feb-2016---mar-2018)
-    * [Google Summer of Code (2015)](https://github.com/jubobs/cv#google-summer-of-code-remote-may---aug-2015)
-    * [Hydraulics & Maritime Research Centre (2007 - 2008)](https://github.com/jubobs/cv#hydraulics--maritime-research-centre-university-college-cork-sep-2007---dec-2008)
+### Auto-entrepreuneur et développeur freelance (octobre 2018 - présent)
 
-* [**Education**](https://github.com/jubobs/cv#education)
-    * [Extracurricular Computer-Science education (2014 - 2015)](https://github.com/jubobs/cv#extracurricular-computer-science-education-university-college-cork-sep-2014---mar-2015)
-    * [Ph.D. (2009 - 2014)](https://github.com/jubobs/cv#phd-civil--environmental-engineering-university-college-cork-jan-2009---dec-2014)
-    * [Diplôme d'ingénieur (2004 - 2007)](https://github.com/jubobs/cv#dipl%C3%B4me-ding%C3%A9nieur-ecole-centrale-marseille-sep-2004---mar-2007)
-    * [Classes Préparatoires (2001 - 2004)](https://github.com/jubobs/cv#classes-pr%C3%A9paratoires-lyc%C3%A9e-saints-louis-paris-sep-2001---may-2004)
+### [Republic of Work][row] (mai - septembre 2018)
 
-* [**Tools & methodologies**](https://github.com/jubobs/cv#tools--methodologies)
+* Autoformation (Go, Google Cloud, Serverless, etc.)
+* Projets personnels :
+    * usrname : une librarie Go pour vérifier la validité et la disponibilité
+      d'un nom sur une multitude de réseaux sociaux
+    * Wep app de productivité personnelle
+* Blogging
 
-* [**Natural languages**](https://github.com/jubobs/cv#natural-languages)
+### Ingénieur logiciel à [Poppulo](https://www.poppulo.com/), Cork (février 2016 - mars 2018)
 
-* [**Online presence**](https://github.com/jubobs/cv#online-presence)
+* Développement d'une architecture microservices
+* Technologies utilisées : Java 8, Scala, Kafka, Docker, Kubernetes, Gitlab, etc.
+* Auditeur interne pour [ISO-27001][iso]
+* (références disponibles à la demande)
 
-* [**Other contributions**](https://github.com/jubobs/cv#other-contributions)
-    * [Public speaking](https://github.com/jubobs/cv#public-speaking)
-    * [Selected open-source work](https://github.com/jubobs/cv#selected-open-source-work)
+### [Google Summer of Code][gsoc], travail à distance (mai - août 2015)
 
-* [**Hobbies**](https://github.com/jubobs/cv#hobbies)
-
----
+* Projet : [A standalone functional parser for CommonMark][gsoc-project]
+* Organisation : [haskell.org](https://www.haskell.org/)
+* Superviseurs : [John Wiegley][jwiegley], [Mike Meyer][mmeyer]
 
 
-## Professional experience
+### [Hydraulics & Maritime Research Centre][hmrc], University College Cork (septembre 2007 - décembre 2008)
 
-### "Funemployed", [Republic of Work][row], Cork (May 2018 - now)
-
-* Upskilling in areas of interest (Go, Google Cloud, etc.)
-* Working on personal projects including
-    * [`usrname`][usrname]: a Go library for checking the validity and
-      availability of a prospective username across a multitude of social-media
-      sites
-    * a (yet unnamed) personal-productivity Web app
-* Blogging (mostly about Go, so far)
-
-### [Poppulo](https://www.poppulo.com/), Cork (Feb. 2016 - Mar. 2018)
-
-* Software Engineer
-* Co-developed the microservices architecture of the _People_ context.
-* Technology stack centred around Java 8, Scala, Kafka, Docker, Kubernetes, Gitlab...
-* [ISO-27001][iso] internal auditor
-* (references available upon request)
-
-### [Google Summer of Code][gsoc], remote (May - Aug. 2015)
-
-* Project: [A standalone functional parser for CommonMark][gsoc-project]
-* Organisation: [haskell.org](https://www.haskell.org/)
-* Mentors: [John Wiegley][jwiegley], [Mike Meyer][mmeyer]
+* Ingénieur de recherche (énergies renouvelables marines)
 
 
-### [Hydraulics & Maritime Research Centre][hmrc], University College Cork (Sep. 2007 - Dec. 2008)
+## Formation
 
-* Research Engineer (marine renewable energy)
+### Hors cursus, University College Cork (septembre 2014 - mars 2015)
 
-
-## Education
-
-### Extracurricular Computer-Science education, University College Cork (Sep. 2014 - Mar. 2015)
-
-* Courses attended:
+* Cours suivis :
     * [CS4620: Functional Programming I][cs4620]
     * [CS4621: Functional Programming II][cs4621]
     * [CS4407: Algorithm Analysis][cs4407]
     * [CS4150: Principles of Compilation][cs4150]
 
 
-### Ph.D., Civil & Environmental Engineering, University College Cork (Jan. 2009 - Dec. 2014)
-* Supervisors: [Dr Gordon Lightbody][gordon], [Dr Gareth Thomas][gareth], [Prof. Tony Lewis][tony]
-* Topic: control strategies for wave-energy devices
-* Funding: [Marie Skłodowska-Curie Actions][msca]
-* (all but dissertation)
-* Teaching:
-    * [AM2032: Numerical Methods & Programming][am2032] (tutor, then lecturer)
-    * [EE3016: Control Engineering I][ee3016] (tutor)
-    * Git tutorials
+### Thèse, Civil & Environmental Engineering, University College Cork (janvier 2009 - décembre 2014)
+* Superviseurs : [Dr Gordon Lightbody][gordon], [Dr Gareth Thomas][gareth], [Prof. Tony Lewis][tony]
+* Sujet : algorithmes de contrôle pour convertisseurs d'énergie des vagues
+* Financement : [Marie Skłodowska-Curie Actions][msca]
+* (tout sauf la thèse de doctorat)
+* Enseignement :
+    * [EE3016: Control Engineering I][ee3016] (assistant)
+    * [AM2032: Numerical Methods & Programming][am2032]
+    * Tutoriels Git
 
-### [Diplôme d'ingénieur][ingenieur], [Ecole Centrale Marseille][centrale-marseille] (Sep. 2004 - Mar. 2007)
+### [Diplôme d'ingénieur][ingenieur], [Ecole Centrale Marseille][centrale-marseille] (septembre 2004 - mars 2007)
 
-* Specialisation in Ocean Engineering
-
-
-### [Classes préparatoires][prepa], [Lycée Saints Louis][st-louis], Paris (Sep. 2001 - May 2004)
-
-* Two-year intensive course in mathematics & physics
+* Spécialisation Génie Marin
 
 
-## Tools & Methodologies
-
-* **Programming languages**: Go, Scala, Haskell, Java 8
-* **Operating systems**: macOS/FreeBSD, Linux
-* **Version control**: Git, GitHub
-* **CI/CD**: Gitlab, Docker, Kubernetes
-* **Monitoring & alerting**: Prometheus, Zipkin
-* **Databases**: Apache Cassandra
-* **Cloud**: Google Cloud Platform
-* **Integration**: REST/HTTP, Kafka
-* **Architecture**: microservices, domain-driven design (incl. event sourcing)
-* **Process**: DevOps, Kanban
+### [Classes préparatoires][prepa], [Lycée Saints Louis][st-louis], Paris (septembre 2001 - mai 2004)
 
 
-## Natural languages
+## Outils et méthodologies
 
-* **English**: fluent
-* **French**: mother tongue
-* **German**: basic
+* **Langages de programmation** : Go, Scala, Haskell, Java 8
+* **Systèmes d'exploitation** : macOS/FreeBSD, Linux
+* **Contrôle de version** : Git
+* **Intégration et livraison continues** : GitHub, Gitlab, Docker, Kubernetes
+* **Monitoring & alerting** : Prometheus, Zipkin
+* **Base de données** : SQL, Apache Cassandra, Google Cloud Firestore
+* **Cloud** : Google Cloud Platform
+* **Integration** : REST/HTTP, Apache Kafka
+* **Architecture** : microservices, Domain-driven design (incl. event sourcing)
+* **Méthodes de conception** : DevOps, Kanban
 
 
-## Online presence
+## Langues parlées et écrites
+
+* **français** : langue natale
+* **anglais** : courant
+* **allemand** : débutant
+
+
+## Présence en ligne
 
 * **Blog**: [jubobs.com](https://jubobs.com)
-    * (see also [this post][poppulo-blogpost] from Poppulo's tech blog)
+    * (voir aussi [cet article][poppulo-blogpost] sur le blog technique de Poppulo)
 * **GitHub**: [jubobs](https://github.com/jubobs)
 * **Google Scholar**: [Julien Cretel][google-scholar]
-* **LinkedIn**: N/A
+* **LinkedIn**: non disponible
 * **Medium**: [@jubobs](https://medium.com/@jubobs)
 * **Speaker Deck**: [jubobs](https://speakerdeck.com/jubobs)
 * **Stack Overflow**: [jubobs][stackoverflow]
 * **Twitter**: [@\_jubobs\_](https://twitter.com/_jubobs_)
 
 
-## Other contributions
+## Autres contributions
 
-### Public speaking
+### Conférences publiques
 
-* _Intro to Google Cloud Functions_,
-  Serverless Cork, Sep. 2018 (TBA)
+* [_Introduction to Google Cloud Functions_][gcf-cork-serverless-meetup],
+  Serverless Cork, septembre 2018
 
 * [_Property-based testing in a nutshell_][pbt-ministry-meetup],
-  Ministry of Testing, Cork, Jul. 2017
+  Ministry of Testing, Cork, juillet 2017
   ([slides][pbt-ministry-slides])
 
 * _Seven Git tips & tricks_,
-  RebelCon, Cork, Jun. 2017
+  RebelCon, Cork, juin 2017
   ([slides][7-git-slides], [video][7-git-video])
 
 * [_Property-based testing_][pbt-crafters-meetup],
-  Software Craftmanship meetup, Cork, Jun. 2017
+  Software Craftmanship meetup, Cork, juin 2017
   ([code][pbt-crafters-code])
 
 * [_Property-based testing for the masses_][pbt-corkdev-meetup],
-  corkdev.io meetup, Cork, Feb. 2017
+  corkdev.io meetup, Cork, février 2017
   ([code][pbt-corkdev-code], [slides][pbt-corkdev-slides], [video][pbt-corkdev-video])
 
 * [_Property-based testing_][pbt-bdx-meetup],
-  Functional-Programming meetup, Bordeaux, Sep. 2016
+  Functional-Programming meetup, Bordeaux, septembre 2016
   ([slides][pbt-bdx-slides])
 
 * [_Git demystified_][git-demystified-meetup],
-  corkdev.io meetup, Cork, Oct. 2015
+  corkdev.io meetup, Cork, octobre 2015
   ([slides][git-demystified-slides], [video][git-demystified-video])
 
 
-### Selected open-source work
+### Contributions open source
 
-* Apache-Cassandra's Java Driver
+* Driver Java pour Apache Cassandra
     * [JAVA-1532: Codec support for Java 8's LocalDateTime and ZoneId][java1532]
-    * (merged)
 
-## Hobbies
+## Passe-temps
 
-* **Competitive programming**
-    * [IEEExtreme 2015][ieeextreme] ([1st team in Ireland][ieeextreme-country], [111th worldwide][ieeextreme-worldwide])
-    * Contributed programming problems to [IrlCPC][irlcpc] 2017 & 2018
-* **Sports**: running, swimming
-* **Other**: reading, cooking, playing board games
+* **Programmation compétitive** :
+    * [IEEExtreme 2015][ieeextreme] ([1ère équipe d'Irlande][ieeextreme-country], [111ème mondial][ieeextreme-worldwide])
+    * Auteur de problèmes pour la compétition de programmation [IrlCPC][irlcpc] en 2017 et 2018
+* **Sports** : course à pied, natation
+* **Autres** : lecture, jeux de plateau, cuisine
 
 
 [7-git-video]: https://www.youtube.com/watch?v=1mJQdcDi7z0
@@ -193,6 +161,8 @@
 [pbt-bdx-slides]: https://speakerdeck.com/jubobs/property-based-testing-1
 
 [gareth]: http://publish.ucc.ie/researchprofiles/D019/gthomas
+
+[gcf-cork-serverless-meetup]: https://www.meetup.com/Serverless-Cork/events/254404435/
 
 [git-demystified-meetup]: https://www.meetup.com/corkdev-io/events/225761607/
 [git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
