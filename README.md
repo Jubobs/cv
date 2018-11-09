@@ -60,7 +60,7 @@
 * Spécialisation Génie Marin
 
 
-### [Classes préparatoires][prepa], [Lycée Saints Louis][st-louis], Paris (septembre 2001 - mai 2004)
+### [Classes préparatoires][prepa], [Lycée Saint Louis][st-louis], Paris (septembre 2001 - mai 2004)
 
 
 ## Outils et méthodologies
@@ -137,7 +137,7 @@
 ## Passe-temps
 
 * **Programmation compétitive** :
-    * [IEEExtreme 2015][ieeextreme] ([1ère équipe d'Irlande][ieeextreme-country], [111ème mondial][ieeextreme-worldwide])
+    * [IEEExtreme 2015][ieeextreme] (1ère équipe d'Irlande, 111ème mondiale)
     * Auteur de problèmes pour la compétition de programmation [IrlCPC][irlcpc] en 2017 et 2018
 * **Sports** : course à pied, natation
 * **Autres** : lecture, jeux de plateau, cuisine
@@ -160,7 +160,7 @@
 [pbt-bdx-meetup]: https://www.meetup.com/bdx-fp/events/233327084/
 [pbt-bdx-slides]: https://speakerdeck.com/jubobs/property-based-testing-1
 
-[gareth]: http://publish.ucc.ie/researchprofiles/D019/gthomas
+[gareth]: http://research.ucc.ie/profiles/2001/g.thomas@ucc.ie
 
 [gcf-cork-serverless-meetup]: https://www.meetup.com/Serverless-Cork/events/254404435/
 
@@ -170,7 +170,7 @@
 
 [google-scholar]: https://scholar.google.com/citations?user=SLDeQ5wAAAAJ
 
-[gordon]: https://www.ucc.ie/en/serg/windenergy/people/gordon/
+[gordon]: http://publish.ucc.ie/researchprofiles/D013/glightbody
 
 [gsoc]: https://summerofcode.withgoogle.com/
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
@@ -180,8 +180,6 @@
 [msca]: http://ec.europa.eu/research/mariecurieactions/
 
 [ieeextreme]: http://ieeextreme.org/
-[ieeextreme-country]: http://sites.ieee.org/xtreme/files/2017/05/Xtreme-9.0-Final-Standings-by-Overall-Rank.pdf
-[ieeextreme-worldwide]: http://sites.ieee.org/xtreme/files/2017/05/Xtreme-9.0-Final-Standings-by-Country.pdf
 
 [ingenieur]: https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur
 [iso]: https://www.iso.org/isoiec-27001-information-security.html
