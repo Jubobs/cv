@@ -89,7 +89,7 @@
 * Specialisation in Ocean Engineering
 
 
-### [Classes préparatoires][prepa], [Lycée Saints Louis][st-louis], Paris (Sep. 2001 - May 2004)
+### [Classes préparatoires][prepa], [Lycée Saint Louis][st-louis], Paris (Sep. 2001 - May 2004)
 
 * Two-year intensive course in mathematics & physics
 
@@ -169,7 +169,7 @@
 ## Hobbies
 
 * **Competitive programming**
-    * [IEEExtreme 2015][ieeextreme] ([1st team in Ireland][ieeextreme-country], [111th worldwide][ieeextreme-worldwide])
+    * [IEEExtreme 2015][ieeextreme] (1st team in Ireland, 111th worldwide)
     * Contributed programming problems to [IrlCPC][irlcpc] 2017 & 2018
 * **Sports**: running, swimming
 * **Other**: reading, cooking, playing board games
@@ -192,7 +192,7 @@
 [pbt-bdx-meetup]: https://www.meetup.com/bdx-fp/events/233327084/
 [pbt-bdx-slides]: https://speakerdeck.com/jubobs/property-based-testing-1
 
-[gareth]: http://publish.ucc.ie/researchprofiles/D019/gthomas
+[gareth]: http://research.ucc.ie/profiles/2001/g.thomas@ucc.ie
 
 [git-demystified-meetup]: https://www.meetup.com/corkdev-io/events/225761607/
 [git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
@@ -200,7 +200,7 @@
 
 [google-scholar]: https://scholar.google.com/citations?user=SLDeQ5wAAAAJ
 
-[gordon]: https://www.ucc.ie/en/serg/windenergy/people/gordon/
+[gordon]: http://publish.ucc.ie/researchprofiles/D013/glightbody
 
 [gsoc]: https://summerofcode.withgoogle.com/
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
@@ -210,8 +210,6 @@
 [msca]: http://ec.europa.eu/research/mariecurieactions/
 
 [ieeextreme]: http://ieeextreme.org/
-[ieeextreme-country]: http://sites.ieee.org/xtreme/files/2017/05/Xtreme-9.0-Final-Standings-by-Overall-Rank.pdf
-[ieeextreme-worldwide]: http://sites.ieee.org/xtreme/files/2017/05/Xtreme-9.0-Final-Standings-by-Country.pdf
 
 [ingenieur]: https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur
 [iso]: https://www.iso.org/isoiec-27001-information-security.html
