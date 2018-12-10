@@ -132,8 +132,8 @@
 
 ### Public speaking
 
-* _Intro to Google Cloud Functions_,
-  Serverless Cork, Sep. 2018 (TBA)
+* [_Introduction to Google Cloud Functions_][gcf-cork-serverless-meetup],
+  Serverless Cork, Sep. 2018
 
 * [_Property-based testing in a nutshell_][pbt-ministry-meetup],
   Ministry of Testing, Cork, Jul. 2017
@@ -193,6 +193,8 @@
 [pbt-bdx-slides]: https://speakerdeck.com/jubobs/property-based-testing-1
 
 [gareth]: http://research.ucc.ie/profiles/2001/g.thomas@ucc.ie
+
+[gcf-cork-serverless-meetup]: https://www.meetup.com/Serverless-Cork/events/254404435/
 
 [git-demystified-meetup]: https://www.meetup.com/corkdev-io/events/225761607/
 [git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
