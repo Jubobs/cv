@@ -5,7 +5,8 @@
 ## Table of Contents
 
 * [**Professional experience**](https://github.com/jubobs/cv#professional-experience)
-    * ["Funemployed" (2018 - now)](https://github.com/jubobs/cv#funemployed-republic-of-work-cork-may-2018---now)
+    * [Freelance developer & security researcher (2019 -)](https://github.com/jubobs/cv#freelance-developer--security-researcher-france-jan-2019---now)
+    * ["Funemployed" (2018)](https://github.com/jubobs/cv#funemployed-republic-of-work-cork-may-2018---december-2018)
     * [Poppulo (2016 - 2018)](https://github.com/jubobs/cv#poppulo-cork-feb-2016---mar-2018)
     * [Google Summer of Code (2015)](https://github.com/jubobs/cv#google-summer-of-code-remote-may---aug-2015)
     * [Hydraulics & Maritime Research Centre (2007 - 2008)](https://github.com/jubobs/cv#hydraulics--maritime-research-centre-university-college-cork-sep-2007---dec-2008)
@@ -33,7 +34,17 @@
 
 ## Professional experience
 
-### "Funemployed", [Republic of Work][row], Cork (May 2018 - now)
+### Freelance developer & security researcher, France (Jan. 2019 - now)
+
+* Backend Web development (mostly Go, cloud, serverless)
+* Delivering [3-day Golang training sessions][gohc] with [Human Coders][hc]
+* Web security research, penetration testing
+* Responsible disclosure & bug bounty hunting:
+    * reported vulnerabilities to companies such as Kaspersky, Ericsson,
+      Deloitte, Teamwork, KPMG, Morgan Stanley, Microsoft, Bentley, BPCE,
+      Bouygues, Ford, Vattenfall, etc.
+
+### Upskilling, [Republic of Work][row], Cork (May 2018 - Dec. 2018)
 
 * Upskilling in areas of interest (Go, Google Cloud, etc.)
 * Working on personal projects including
@@ -200,12 +211,16 @@
 [git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
 [git-demystified-video]: https://www.youtube.com/watch?v=nvUbAkncoso
 
+[gohc]: https://www.humancoders.com/formations/go
+
 [google-scholar]: https://scholar.google.com/citations?user=SLDeQ5wAAAAJ
 
 [gordon]: http://publish.ucc.ie/researchprofiles/D013/glightbody
 
 [gsoc]: https://summerofcode.withgoogle.com/
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
+
+[hc]: https://www.humancoders.com
 
 [hmrc]: http://www.marei.ie/
 
