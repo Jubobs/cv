@@ -4,7 +4,15 @@
 
 ## Expérience professionnelle
 
-### Auto-entrepreuneur et développeur freelance (octobre 2018 - présent)
+### Développeur et chercheur en sécurité indépendant (janvier 2019 - présent)
+
+* Développement Web backend (Go, cloud, serverless)
+* [Formateur Golang][gohc] avec [Human Coders][hc]
+* Recherche en sécurité informatique, tests d'intrusions
+* Chasseur de prime à la faille (_bug bounty hunting_) et divulgation responsable:
+    * failles de sécurité remontées à des entreprises telles que Kaspersky,
+      Ericsson, Deloitte, Teamwork, KPMG, Morgan Stanley, Microsoft, Bentley,
+      BPCE, Bouygues, Ford, Vattenfall, etc.
 
 ### [Republic of Work][row] (mai - septembre 2018)
 
@@ -168,12 +176,16 @@
 [git-demystified-slides]: https://github.com/jubobs/talks/blob/master/corkdev-oct2015/slides.md
 [git-demystified-video]: https://www.youtube.com/watch?v=nvUbAkncoso
 
+[gohc]: https://www.humancoders.com/formations/go
+
 [google-scholar]: https://scholar.google.com/citations?user=SLDeQ5wAAAAJ
 
 [gordon]: http://publish.ucc.ie/researchprofiles/D013/glightbody
 
 [gsoc]: https://summerofcode.withgoogle.com/
 [gsoc-project]: https://www.google-melange.com/archive/gsoc/2015/orgs/haskell/projects/jubobs.html
+
+[hc]: https://www.humancoders.com
 
 [hmrc]: http://www.marei.ie/
 
