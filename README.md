@@ -136,7 +136,7 @@
 * **Medium**: [@jubobs](https://medium.com/@jubobs)
 * **Speaker Deck**: [jubobs](https://speakerdeck.com/jubobs)
 * **Stack Overflow**: [jubobs][stackoverflow]
-* **Twitter**: [@\_jubobs\_](https://twitter.com/_jubobs_)
+* **Twitter**: [@jub0bs](https://twitter.com/jub0bs)
 
 
 ## Other contributions
