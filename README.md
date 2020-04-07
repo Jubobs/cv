@@ -94,14 +94,14 @@
 
 ## Présence en ligne
 
-* **Blog**: [jubobs.com](https://jubobs.com)
+* **Blog**: [jub0bs.com](https://jub0bs.com)
     * (voir aussi [cet article][poppulo-blogpost] sur le blog technique de Poppulo)
 * **GitHub**: [jubobs](https://github.com/jubobs)
 * **Google Scholar**: [Julien Cretel][google-scholar]
 * **LinkedIn**: non disponible
-* **Medium**: [@jubobs](https://medium.com/@jubobs)
+* **Medium**: [@jub0bs](https://medium.com/@jub0bs)
 * **Speaker Deck**: [jubobs](https://speakerdeck.com/jubobs)
-* **Stack Overflow**: [jubobs][stackoverflow]
+* **Stack Overflow**: [jub0bs][stackoverflow]
 * **Twitter**: [@jub0bs](https://twitter.com/jub0bs)
 
 
